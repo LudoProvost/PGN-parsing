@@ -1,0 +1,20 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bEyBvcDQ"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dmitry54rus"]
+[Black "AvalonX"]
+[Result "1-0"]
+[UTCDate "2014.09.28"]
+[UTCTime "03:54:22"]
+[WhiteElo "1748"]
+[BlackElo "1742"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-18"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Bc4 e6 3. Nc3 g6 4. Qf3 Bg7 5. Nge2 Nd7 6. d3 Ne5 7. Qg3 Nxc4 8. dxc4 Ne7 9. O-O b6 10. Rb1 Bb7 11. h3 h5 12. Be3 Qd7 13. Bd4 e5 14. Be3 O-O-O 15. Nd5 Nxd5 16. cxd5 Rdg8 17. f4 f5 18. fxe5 dxe5 19. exf5 gxf5 20. Nc3 f4 21. Bxf4 exf4 22. Rxf4 Bxc3 23. Qxc3 Bxd5 24. Rd1 Rxg2+ 25. Kf1 Rhg8 26. Qd4 Qb5+ 27. Rd3 c6 28. c4 Rg1+ 29. Ke2 R8g2+ 30. Rf2 Rxf2+ 31. Qxf2 Bxc4 32. Qxg1 Bxd3+ 33. Kd2 c5 34. b3 c4 35. Qg8+ Kb7 36. bxc4 Bxc4 37. Qg7+ Ka6 38. Qc3 Qd5+ 39. Kc1 b5 40. Qf6+ Ka5 41. Qc3+ Kb6 42. a3 Qh1+ 43. Kb2 Qg2+ 44. Kc1 Qf1+ 45. Kb2 Qe2+ 46. Kc1 Qf1+ 47. Kb2 Qd3 48. Qf6+ Ka5 49. Qe7 Qb3+ 50. Kc1 Bd3 51. Qd8+ Ka6 52. Qd6+ Kb7 53. Qd7+ Kb6 54. Qd6+ Ka5 55. Qc7+ Ka6 56. Qd6+ Kb7 57. Qd7+ Kb8 58. Qd6+ Kc8 59. Qc6+ Kd8 60. Qd6+ Ke8 61. Qb8+ Kf7 62. Qxa7+ Kg6 63. Qb6+ Kg5 64. Qg1+ Kh4 65. Qf2+ Kxh3 66. Qf3+ Kh2 67. Qxh5+ Kg3 68. Qg5+ Kf3 69. Qh5+ Ke4 70. Qh4+ Kd5 71. Qh5+ Kc4 72. Qf7+ Kc3 73. Qc7+ Bc4 74. Qg3+ Kd4 75. Qf4+ Kc5 76. Qc7+ Kd5 77. Qf7+ Kd4 78. Qf4+ Kd3 79. Qf5+ Kd4 80. Qf4+ Kc5 81. Qf5+ Bd5 82. Qf8+ Kb6 83. Qf6+ Bc6 84. Qf2+ Ka5 85. Qa7# 1-0
+
